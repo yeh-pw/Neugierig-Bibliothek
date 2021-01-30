@@ -172,7 +172,7 @@ class NbibliothekService(AbstractServices):
         current_borrows = self.get_current_borrows_by_nim(nim)
 
         for x in current_borrows:
-            if x.isbn == isbn:
+            if x.isbn == int(isbn):
                 return True
         return False
 
