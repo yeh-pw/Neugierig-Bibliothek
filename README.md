@@ -31,8 +31,8 @@ Neugierig-Bibliothek is a simple example of a library software. Based on SQLite 
  * nbibliothek_v3
    - All arguments of v2.
    - More language support, examples:
-      - -lang=DE, -lang=AR, -lang=ZH-CN, etc.
-      - Please refer to https://cloud.google.com/translate/docs/languages for language support.
+      - -lang=DE (Deutsch), -lang=AR (Arabic), -lang=ZH-CN (China Mainland), etc.
+      - Please refer to https://cloud.google.com/translate/docs/languages for more language support.
  
  
 # Usage Example
