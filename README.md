@@ -18,7 +18,7 @@ Neugierig-Bibliothek is a simple example of a library software. Based on SQLite 
 
 # Input Arguments
 * nbibliothek_v1
-   - -db:file=xxxx\yyyy.db | Where xxxx : directory address, and yyyy : database name.
+   - -db:file=xxxx\yyyy.db | Change database directory, where xxxx : directory address, and yyyy : database name.
    - -db:init=True | Initialize datas on new database.
    - -apps:report | Printing 5 most borrowed books in the current month.
       - -apps:report -db:init=True | Initialize dummy data of borrows and print 5 of the favorite books in the current month.
