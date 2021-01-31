@@ -36,7 +36,7 @@ Neugierig-Bibliothek is a simple example of a library software. Based on SQLite 
  
  
 # Usage Example
--
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nkusqj7pIiA/0.jpg)](https://youtu.be/nkusqj7pIiA)
 
  
  
