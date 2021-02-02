@@ -1,5 +1,5 @@
 # Neugierig-Bibliothek
-Neugierig-Bibliothek is a simple example of a library software. Based on SQLite as database and Python as language. 
+Neugierig-Bibliothek is a simple example of a library software. Based on SQLite as database, Python as language and Tkinter based GUI. 
 
 # Requirements
 * Python3
